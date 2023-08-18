@@ -1,0 +1,1 @@
+# detect_clicks_on_img
